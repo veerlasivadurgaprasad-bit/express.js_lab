@@ -1,0 +1,23 @@
+{
+  "name": "lab-01-nodejs-express-server",
+  "version": "1.0.0",
+  "description": "Lab 1 - Node.js and Express Server: Basic HTTP server and Express server with routing",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:http": "node server-http.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "http",
+    "server",
+    "lab"
+  ],
+  "author": "V.Siva Durga Prasad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
