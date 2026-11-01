@@ -14,10 +14,7 @@
 
 ## Live Link
 
-> Deployment is pending. This project runs locally on port `3000`.
-> No live URL is available at this time. See [Steps to Run](#steps-to-run) below.
-
----
+https://expressjslab-iota.vercel.app/
 
 ## Objective
 
